@@ -1,5 +1,11 @@
 # ai-docs
 
+[![npm version](https://img.shields.io/npm/v/@lxgicstudios/ai-docs.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-docs)
+[![npm downloads](https://img.shields.io/npm/dm/@lxgicstudios/ai-docs.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-docs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+AI-powered JSDoc/TSDoc generator. Automatically document your exported functions, classes, and interfaces.
+
 Adds JSDoc or TSDoc comments to your code. Point it at files or a directory and it'll document your exported functions, classes, and interfaces without touching any logic.
 
 ## Install
