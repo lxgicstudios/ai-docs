@@ -63,7 +63,7 @@ This is one of 110+ free developer tools built by LXGIC Studios. No paywalls, no
 - GitHub: https://github.com/LXGIC-Studios
 - Twitter: https://x.com/lxgicstudios
 - Substack: https://lxgicstudios.substack.com
-- Website: https://lxgic.dev
+- Website: https://lxgicstudios.com
 
 ## Requirements
 
