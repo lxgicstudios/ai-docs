@@ -32,7 +32,7 @@
     "access": "public"
   },
   "keywords": [
-    "ai",
+    "ai", "llm", "claude", "anthropic",
     "openai",
     "gpt",
     "documentation",
