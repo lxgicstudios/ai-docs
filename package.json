@@ -32,20 +32,26 @@
     "access": "public"
   },
   "keywords": [
-    "ai", "llm", "claude", "anthropic",
-    "openai",
-    "gpt",
-    "documentation",
-    "jsdoc",
-    "tsdoc",
+    "agentic",
+    "ai",
+    "ai-agent",
+    "anthropic",
     "api-docs",
+    "automation",
+    "claude",
+    "cli",
     "comments",
     "developer-tools",
-    "cli",
-    "automation",
-    "typescript",
+    "documentation",
+    "dx",
+    "gpt",
+    "jsdoc",
+    "llm",
     "nodejs",
+    "openai",
     "readme",
-    "dx"
+    "tsdoc",
+    "typescript",
+    "zero-config"
   ]
 }
