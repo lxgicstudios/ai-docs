@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/@lxgicstudios/ai-docs.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-docs)
 [![npm downloads](https://img.shields.io/npm/dm/@lxgicstudios/ai-docs.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-docs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-docs)](https://github.com/lxgic-studios/ai-docs/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 AI-powered JSDoc/TSDoc generator. Automatically document your exported functions, classes, and interfaces.
 
