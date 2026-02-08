@@ -9,7 +9,16 @@
 
 AI-powered JSDoc/TSDoc generator. Automatically document your exported functions, classes, and interfaces.
 
-Adds JSDoc or TSDoc comments to your code. Point it at files or a directory and it'll document your exported functions, classes, and interfaces without touching any logic.
+## What is ai-docs?
+
+ai-docs is a CLI tool that adds professional documentation comments to your TypeScript and JavaScript code. It analyzes your exported functions, classes, and interfaces, then generates JSDoc or TSDoc comments without modifying your actual code logic.
+
+## Why use it?
+
+- Saves hours of manual documentation work
+- Generates accurate param and return type descriptions
+- Supports both JSDoc and TSDoc formats
+- Non-destructive: only adds comments, never changes code
 
 ## Install
 
@@ -51,3 +60,21 @@ Reads each file, sends it to OpenAI, gets back the same file with doc comments a
 - Run without `--write` first to preview what it'll do
 - It skips files over 20KB (they'd blow the context window anyway)
 - Automatically ignores node_modules and dist folders
+
+## FAQ
+
+**Does it modify my code logic?**
+No. It only adds documentation comments above your functions and classes.
+
+**What's the difference between JSDoc and TSDoc?**
+JSDoc is the classic format. TSDoc is TypeScript-specific with stricter syntax. Pick based on your project.
+
+**Can I run it on my whole codebase at once?**
+Yes. Just point it at your src directory: `npx ai-docs src/ --style jsdoc --write`
+
+**Does it work with JavaScript files?**
+Yes. It supports both .ts and .js files.
+
+## License
+
+MIT - [LXGIC Studios](https://github.com/lxgicstudios)
