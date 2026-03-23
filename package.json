@@ -40,17 +40,17 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/lxgicstudios/ai-docs#readme",
+  "homepage": "https://github.com/LXGIC-Studios/ai-docs#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/ai-docs.git"
+    "url": "git+https://github.com/LXGIC-Studios/ai-docs.git"
   },
   "bugs": {
     "url": "https://github.com/lxgicstudios/ai-docs/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/lxgicstudios"
+    "url": "https://github.com/sponsors/LXGIC-Studios"
   },
   "engines": {
     "node": ">=18.0.0"
