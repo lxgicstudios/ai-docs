@@ -16,37 +16,44 @@
     "dev": "ts-node src/cli.ts"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "api-docs",
     "automation",
     "claude",
     "cli",
     "comments",
-    "developer-tools",
+    "developer-experience",
+    "developer-productivity",
+    "discoverability",
     "documentation",
-    "dx",
-    "gpt",
-    "jsdoc",
-    "llm",
-    "nodejs",
-    "openai",
-    "readme",
-    "tsdoc",
-    "typescript",
-    "zero-config"
+    "generative-ai",
+    "knowledge-base",
+    "llm-optimized",
+    "markdown",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "tech-writing",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-docs#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-docs.git"
+    "url": "https://github.com/LXGIC-Studios/ai-docs"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-docs/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-docs/issues"
   },
   "funding": {
     "type": "github",
