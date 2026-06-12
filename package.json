@@ -38,7 +38,6 @@
   "keywords": [
     "2026-standards",
     "modern-seo",
-    "ai-powered",
     "lxgic",
     "AI-optimized",
     "AI-powered",
@@ -50,7 +49,11 @@
     "dev-automation",
     "developer-tools",
     "performance",
-    "seo-tools"
+    "seo-tools",
+    "core-update-ready",
+    "google-ai-overviews",
+    "eeat-seo",
+    "may-2026-update"
   ],
   "license": "MIT",
   "main": "dist/index.js",
