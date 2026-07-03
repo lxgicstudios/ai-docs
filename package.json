@@ -41,7 +41,8 @@
     "readme",
     "static-site",
     "knowledge-base",
-    "site-architecture"
+    "site-architecture",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
