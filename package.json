@@ -8,7 +8,7 @@
     "ai-docs": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-docs/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -34,7 +34,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-docs",
+  "homepage": "https://github.com/LXGIC-Studios/ai-docs",
   "keywords": [
     "documentation",
     "markdown",
@@ -42,7 +42,19 @@
     "static-site",
     "knowledge-base",
     "site-architecture",
-    "seo-audit"
+    "seo-audit",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -53,8 +65,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-docs"
+    "url": "git+https://github.com/LXGIC-Studios/ai-docs.git"
   },
   "scripts": {
     "build": "tsc",
