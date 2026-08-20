@@ -50,10 +50,7 @@
     "knowledge-base",
     "markdown",
     "npx",
-    "openai",
-    "typescript",
-    "javascript",
-    "nodejs"
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
